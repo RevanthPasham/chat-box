@@ -2,6 +2,8 @@
 
 A simple chatbot web application using **Google Gemini API** and **Flask**, styled with Bootstrap and interactive using jQuery.
 output:
+![Chatbot UI](https://github.com/your-username/your-repo-name/blob/main/chatbot.png?raw=true)
+
 
 
 ---
